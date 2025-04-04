@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>testing basic</name>
+        <password>﷞﷟﷒d383f912c37702108965973ed401311f﷬﷔1﷬﷭JQvEmy8Phkwf9c0CaEodBA==R2dmPAXeyu_gxPhEuTHzSv7qp27pyjWwfqV8﷮﷯</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-28 08:45:42</sys_created_on>
+        <sys_id>c6b6bcb0c34422108965973ed4013180</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>testing basic</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_c6b6bcb0c34422108965973ed4013180</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-28 08:45:42</sys_updated_on>
+        <username>demo_integrations</username>
+    </sys_auth_profile_basic>
+</record_update>

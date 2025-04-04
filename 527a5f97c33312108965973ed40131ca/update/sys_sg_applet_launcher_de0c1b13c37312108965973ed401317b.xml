@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="INSERT_OR_UPDATE">
+        <access_control_type>user_roles</access_control_type>
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles>375a2a347330330018eea18d4ef6a79a</header_titles>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>Home</name>
+        <required_roles/>
+        <search_config display_value="Homepage Search - Catalog, Knowledge, People">d259d3d47320330018eea18d4ef6a708</search_config>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 04:55:54</sys_created_on>
+        <sys_id>de0c1b13c37312108965973ed401317b</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Home</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_de0c1b13c37312108965973ed401317b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 08:47:10</sys_updated_on>
+        <title>Home</title>
+    </sys_sg_applet_launcher>
+</record_update>

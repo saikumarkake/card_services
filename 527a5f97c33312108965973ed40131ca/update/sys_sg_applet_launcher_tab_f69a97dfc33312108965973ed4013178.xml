@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_tab">
+    <sys_sg_applet_launcher_tab action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applet_launcher display_value="Ticket services">f29a1f13c33312108965973ed401317c</applet_launcher>
+        <icon display_value="Home Ticket services">3a9a97dfc33312108965973ed4013178</icon>
+        <label>Ticket services</label>
+        <sys_class_name>sys_sg_applet_launcher_tab</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 04:49:39</sys_created_on>
+        <sys_id>f69a97dfc33312108965973ed4013178</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Ticket services</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_tab_f69a97dfc33312108965973ed4013178</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 04:49:39</sys_updated_on>
+    </sys_sg_applet_launcher_tab>
+</record_update>

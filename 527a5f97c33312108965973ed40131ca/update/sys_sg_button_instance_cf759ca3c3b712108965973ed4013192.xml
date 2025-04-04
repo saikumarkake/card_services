@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="phone smart button">03759ca3c3b712108965973ed4013190</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name>opened_by.phone</field_name>
+        <icon/>
+        <label>Phone smart button</label>
+        <location>field</location>
+        <name>phone smart button</name>
+        <order>200</order>
+        <parent>c251e75bc37312108965973ed40131e2</parent>
+        <parent_table>sys_sg_details_screen</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:06:54</sys_created_on>
+        <sys_id>cf759ca3c3b712108965973ed4013192</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>phone smart button</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_button_instance_cf759ca3c3b712108965973ed4013192</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 09:06:54</sys_updated_on>
+        <table>incident</table>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=cf759ca3c3b712108965973ed4013192"/>
+</record_update>

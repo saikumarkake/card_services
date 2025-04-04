@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_button">
+    <sys_sg_navigation_section_destination_button action="INSERT_OR_UPDATE">
+        <background_color/>
+        <background_color_variable/>
+        <button display_value="create_problem">63f4b390c38422108965973ed401314a</button>
+        <foreground_color/>
+        <foreground_color_variable/>
+        <icon display_value="Quick Action - Report an Issue">6587291d87423300e0ef0cf888cb0b1f</icon>
+        <image/>
+        <name>Create Problem</name>
+        <sys_class_name>sys_sg_navigation_section_destination_button</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 10:32:39</sys_created_on>
+        <sys_id>20e54c28c3c422108965973ed401311b</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Create Problem</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_button_20e54c28c3c422108965973ed401311b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 10:39:33</sys_updated_on>
+    </sys_sg_navigation_section_destination_button>
+</record_update>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Agent Chat">73785ce07320330018eea18d4ef6a7c8</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="MS icon-Chart-Bar-Solid">fd400e0673b52010a59b4c5353f6a761</icon>
+        <label>Agent</label>
+        <location>quick_action</location>
+        <name>virtual Agent</name>
+        <order>300</order>
+        <parent>de0c1b13c37312108965973ed401317b</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 10:56:37</sys_created_on>
+        <sys_id>969eac2bc33b12108965973ed40131fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>virtual Agent</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_button_instance_969eac2bc33b12108965973ed40131fc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 10:56:37</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=969eac2bc33b12108965973ed40131fc"/>
+</record_update>

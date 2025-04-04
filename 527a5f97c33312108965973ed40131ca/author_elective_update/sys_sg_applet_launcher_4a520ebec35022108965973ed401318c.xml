@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher">
+    <sys_sg_applet_launcher action="DELETE">
+        <access_control_type>user_roles</access_control_type>
+        <active>true</active>
+        <available_offline>false</available_offline>
+        <header_button/>
+        <header_titles/>
+        <hide_empty_sections>true</hide_empty_sections>
+        <name>calender</name>
+        <required_roles/>
+        <search_config/>
+        <sys_class_name>sys_sg_applet_launcher</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-19 05:38:27</sys_created_on>
+        <sys_id>4a520ebec35022108965973ed401318c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Calender</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_4a520ebec35022108965973ed401318c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-19 05:38:27</sys_updated_on>
+        <title>Calender</title>
+    </sys_sg_applet_launcher>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ticket services">527a5f97c33312108965973ed40131ca</application>
+        <file_path/>
+        <instance_id>b1a3515a3bfb4a94baf6048aa4e45a3c</instance_id>
+        <instance_name>dev285817</instance_name>
+        <name>sys_sg_applet_launcher_4a520ebec35022108965973ed401318c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher"><sys_sg_applet_launcher action="INSERT_OR_UPDATE"><access_control_type>user_roles</access_control_type><active>true</active><available_offline>false</available_offline><header_button/><header_titles/><hide_empty_sections>true</hide_empty_sections><name>calender</name><required_roles/><search_config/><sys_class_name>sys_sg_applet_launcher</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-19 05:38:27</sys_created_on><sys_id>4a520ebec35022108965973ed401318c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Calender</sys_name><sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package><sys_policy/><sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope><sys_update_name>sys_sg_applet_launcher_4a520ebec35022108965973ed401318c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-19 05:38:27</sys_updated_on><title>Calender</title></sys_sg_applet_launcher></record_update>]]></payload>
+        <payload_hash>-158751717</payload_hash>
+        <record_name>Calender</record_name>
+        <reverted_from/>
+        <source>9a7ad3dfc33312108965973ed4013144</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-19 05:38:27</sys_created_on>
+        <sys_id>0a520ebec35022108965973ed401318f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195ace905f10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-19 05:38:27</sys_updated_on>
+        <type>Launcher screen</type>
+        <update_guid>0e520ebeb750221027d1a927cec9cc8e</update_guid>
+        <update_guid_history>0e520ebeb750221027d1a927cec9cc8e:-158751717</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-19 05:45:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_applet_launcher">sys_sg_applet_launcher</sys_db_object>
+        <sys_id>4d9a27aced3d4f93a00db1134483fd79</sys_id>
+        <sys_metadata>4a520ebec35022108965973ed401318c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Calender</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_scope_delete display_value="">cb7e0868ad1c4d53b148f7647ed00879</sys_scope_delete>
+        <sys_update_name>sys_sg_applet_launcher_4a520ebec35022108965973ed401318c</sys_update_name>
+        <sys_update_version display_value="sys_sg_applet_launcher_4a520ebec35022108965973ed401318c">0a520ebec35022108965973ed401318f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-19 05:45:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

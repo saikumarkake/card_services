@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_applet_launcher_m2m_section">
+    <sys_sg_applet_launcher_m2m_section action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="Home">de0c1b13c37312108965973ed401317b</applet_launcher>
+        <order>300</order>
+        <section display_value="Analytics">6e6ed4ebc3b712108965973ed40131ab</section>
+        <sys_class_name>sys_sg_applet_launcher_m2m_section</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:45:55</sys_created_on>
+        <sys_id>ea6edc23c3f712108965973ed4013179</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_applet_launcher_m2m_section_ea6edc23c3f712108965973ed4013179</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 09:46:13</sys_updated_on>
+    </sys_sg_applet_launcher_m2m_section>
+</record_update>

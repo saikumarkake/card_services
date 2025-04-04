@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="DELETE">
+        <applet_launcher display_value="Home">de0c1b13c37312108965973ed401317b</applet_launcher>
+        <order/>
+        <quick_action_button/>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 08:51:30</sys_created_on>
+        <sys_id>25f15cafc37712108965973ed401313d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_25f15cafc37712108965973ed401313d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 08:51:30</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ticket services">527a5f97c33312108965973ed40131ca</application>
+        <file_path/>
+        <instance_id>b1a3515a3bfb4a94baf6048aa4e45a3c</instance_id>
+        <instance_name>dev285817</instance_name>
+        <name>sys_sg_alp_quick_action_map_25f15cafc37712108965973ed401313d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map"><sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE"><applet_launcher display_value="Home">de0c1b13c37312108965973ed401317b</applet_launcher><order/><quick_action_button/><sys_class_name>sys_sg_alp_quick_action_map</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-24 08:51:30</sys_created_on><sys_id>25f15cafc37712108965973ed401313d</sys_id><sys_mod_count>0</sys_mod_count><sys_name/><sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package><sys_policy/><sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope><sys_update_name>sys_sg_alp_quick_action_map_25f15cafc37712108965973ed401313d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-24 08:51:30</sys_updated_on></sys_sg_alp_quick_action_map></record_update>]]></payload>
+        <payload_hash>31552162</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>9a7ad3dfc33312108965973ed4013144</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 08:52:29</sys_created_on>
+        <sys_id>bf2290efc37712108965973ed401310b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1953728667e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 08:52:29</sys_updated_on>
+        <type>Quick actions menu</type>
+        <update_guid>69f15caf547712106e3ce8129c9f123e</update_guid>
+        <update_guid_history>69f15caf547712106e3ce8129c9f123e:-1562084535,69f15caf547712106e3ce8129c9f123e:-1562084535</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 08:53:10</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_alp_quick_action_map">sys_sg_alp_quick_action_map</sys_db_object>
+        <sys_id>207da544f86948aa952dc64a60ef0089</sys_id>
+        <sys_metadata>25f15cafc37712108965973ed401313d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_scope_delete display_value="">cb7e0868ad1c4d53b148f7647ed00879</sys_scope_delete>
+        <sys_update_name>sys_sg_alp_quick_action_map_25f15cafc37712108965973ed401313d</sys_update_name>
+        <sys_update_version display_value="sys_sg_alp_quick_action_map_25f15cafc37712108965973ed401313d">bf2290efc37712108965973ed401310b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 08:53:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
