@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_button">
+    <sys_sg_navigation_section_destination_button action="DELETE">
+        <background_color/>
+        <background_color_variable/>
+        <button display_value="create_problem">63f4b390c38422108965973ed401314a</button>
+        <foreground_color/>
+        <foreground_color_variable/>
+        <icon display_value="comments">0d94b73887203300e0ef0cf888cb0b9e</icon>
+        <image/>
+        <name>New icon section destination function</name>
+        <sys_class_name>sys_sg_navigation_section_destination_button</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 10:44:13</sys_created_on>
+        <sys_id>c688c86cc3c422108965973ed401314d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New icon section destination function</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_button_c688c86cc3c422108965973ed401314d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 10:44:13</sys_updated_on>
+    </sys_sg_navigation_section_destination_button>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ticket services">527a5f97c33312108965973ed40131ca</application>
+        <file_path/>
+        <instance_id>b1a3515a3bfb4a94baf6048aa4e45a3c</instance_id>
+        <instance_name>dev285817</instance_name>
+        <name>sys_sg_navigation_section_destination_button_c688c86cc3c422108965973ed401314d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_button"><sys_sg_navigation_section_destination_button action="INSERT_OR_UPDATE"><background_color/><background_color_variable/><button display_value="create_problem">63f4b390c38422108965973ed401314a</button><foreground_color/><foreground_color_variable/><icon display_value="comments">0d94b73887203300e0ef0cf888cb0b9e</icon><image/><name>New icon section destination function</name><sys_class_name>sys_sg_navigation_section_destination_button</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-27 10:44:13</sys_created_on><sys_id>c688c86cc3c422108965973ed401314d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New icon section destination function</sys_name><sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package><sys_policy/><sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope><sys_update_name>sys_sg_navigation_section_destination_button_c688c86cc3c422108965973ed401314d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-27 10:44:13</sys_updated_on></sys_sg_navigation_section_destination_button></record_update>]]></payload>
+        <payload_hash>-1904736521</payload_hash>
+        <record_name>New icon section destination function</record_name>
+        <reverted_from/>
+        <source>9a7ad3dfc33312108965973ed4013144</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 10:44:14</sys_created_on>
+        <sys_id>0e88c86cc3c422108965973ed401314f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1954701c8300000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 10:44:14</sys_updated_on>
+        <type>Icon section destination function</type>
+        <update_guid>0288c86c77c4221003e490912bf3c64f</update_guid>
+        <update_guid_history>0288c86c77c4221003e490912bf3c64f:-1904736521</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 10:44:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_navigation_section_destination_button">sys_sg_navigation_section_destination_button</sys_db_object>
+        <sys_id>0174940aa38a429b98a463c2b36df539</sys_id>
+        <sys_metadata>c688c86cc3c422108965973ed401314d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New icon section destination function</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_scope_delete display_value="">cb7e0868ad1c4d53b148f7647ed00879</sys_scope_delete>
+        <sys_update_name>sys_sg_navigation_section_destination_button_c688c86cc3c422108965973ed401314d</sys_update_name>
+        <sys_update_version display_value="sys_sg_navigation_section_destination_button_c688c86cc3c422108965973ed401314d">0e88c86cc3c422108965973ed401314f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 10:44:54</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

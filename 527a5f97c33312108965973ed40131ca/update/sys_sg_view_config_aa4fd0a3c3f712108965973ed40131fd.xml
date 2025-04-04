@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config">
+    <sys_sg_view_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <advanced>false</advanced>
+        <description>category</description>
+        <name>categories list card</name>
+        <scratchpad_script/>
+        <sys_class_name>sys_sg_view_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:49:44</sys_created_on>
+        <sys_id>aa4fd0a3c3f712108965973ed40131fd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>categories list card</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_view_config_aa4fd0a3c3f712108965973ed40131fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 09:49:44</sys_updated_on>
+        <table>sc_category</table>
+        <template display_value="Catalog Approval Template">181a8a41772301103ec08f1a5b5a9917</template>
+    </sys_sg_view_config>
+    <sys_translated_text action="delete_multiple" query="documentkey=aa4fd0a3c3f712108965973ed40131fd"/>
+</record_update>

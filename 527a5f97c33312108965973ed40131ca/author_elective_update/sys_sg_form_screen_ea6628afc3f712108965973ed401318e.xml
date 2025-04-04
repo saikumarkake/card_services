@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="DELETE">
+        <alert/>
+        <available_offline>false</available_offline>
+        <data_item display_value="request status">626628afc3f712108965973ed401318b</data_item>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon/>
+        <item_view/>
+        <name>request status</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <parameter_screen/>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 10:20:52</sys_created_on>
+        <sys_id>ea6628afc3f712108965973ed401318e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>request status</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_form_screen_ea6628afc3f712108965973ed401318e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 10:20:52</sys_updated_on>
+        <table/>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="catalog items list card">226028e3c3f712108965973ed4013137</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="DELETE" query="documentkey=ea6628afc3f712108965973ed401318e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ticket services">527a5f97c33312108965973ed40131ca</application>
+        <file_path/>
+        <instance_id>b1a3515a3bfb4a94baf6048aa4e45a3c</instance_id>
+        <instance_name>dev285817</instance_name>
+        <name>sys_sg_form_screen_ea6628afc3f712108965973ed401318e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen"><sys_sg_form_screen action="INSERT_OR_UPDATE"><alert/><available_offline>false</available_offline><data_item display_value="request status">626628afc3f712108965973ed401318b</data_item><description/><dynamic_prefetch_count/><empty_state/><fetch_type>not_required</fetch_type><filter/><hide_filters>false</hide_filters><hide_screen_name>false</hide_screen_name><icon/><item_view/><name>request status</name><override_context_with_data_item>false</override_context_with_data_item><parameter_screen/><roles_override/><segments_height>medium</segments_height><segments_min_width>medium</segments_min_width><sys_class_name>sys_sg_form_screen</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-24 10:20:52</sys_created_on><sys_id>ea6628afc3f712108965973ed401318e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>request status</sys_name><sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package><sys_policy/><sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope><sys_update_name>sys_sg_form_screen_ea6628afc3f712108965973ed401318e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-24 10:20:52</sys_updated_on><table/><use_view_config>true</use_view_config><view_config display_value="catalog items list card">226028e3c3f712108965973ed4013137</view_config></sys_sg_form_screen><sys_translated_text action="delete_multiple" query="documentkey=ea6628afc3f712108965973ed401318e"/></record_update>]]></payload>
+        <payload_hash>977478259</payload_hash>
+        <record_name>request status</record_name>
+        <reverted_from/>
+        <source>9a7ad3dfc33312108965973ed4013144</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 10:20:52</sys_created_on>
+        <sys_id>666628afc3f712108965973ed4013191</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195377951d80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 10:20:52</sys_updated_on>
+        <type>Record screen</type>
+        <update_guid>6a6628af27f71210db9b620bbe561890</update_guid>
+        <update_guid_history>6a6628af27f71210db9b620bbe561890:977478259</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 10:21:23</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_form_screen">sys_sg_form_screen</sys_db_object>
+        <sys_id>452c4ad39da64b729bd6dc8102eccd84</sys_id>
+        <sys_metadata>ea6628afc3f712108965973ed401318e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>request status</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_scope_delete display_value="">cb7e0868ad1c4d53b148f7647ed00879</sys_scope_delete>
+        <sys_update_name>sys_sg_form_screen_ea6628afc3f712108965973ed401318e</sys_update_name>
+        <sys_update_version display_value="sys_sg_form_screen_ea6628afc3f712108965973ed401318e">666628afc3f712108965973ed4013191</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 10:21:23</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_rest_message_fn">
+    <sys_rest_message_fn action="INSERT_OR_UPDATE">
+        <authentication_type>inherit_from_parent</authentication_type>
+        <basic_auth_password/>
+        <basic_auth_profile/>
+        <basic_auth_user/>
+        <content>{"u_short_description":"${short_desc}","u_description":"${desc}","u_caller_id":"${caller}","u_priority":"${priority}"}</content>
+        <function_name>testing post</function_name>
+        <http_method>post</http_method>
+        <lock>false</lock>
+        <oauth2_profile/>
+        <protocol_name/>
+        <qualified_name>testing_demo [ testing post ]</qualified_name>
+        <rest_endpoint>https://dev274679.service-now.com/api/now/import/x_1513018_equiptra_testing_demo</rest_endpoint>
+        <rest_message display_value="testing_demo">e8567c30c34422108965973ed40131ed</rest_message>
+        <sys_class_name>sys_rest_message_fn</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-28 08:48:28</sys_created_on>
+        <sys_id>2347f8f0c34422108965973ed4013156</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>testing post</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_rest_message_fn_2347f8f0c34422108965973ed4013156</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-28 08:49:55</sys_updated_on>
+        <use_basic_auth>false</use_basic_auth>
+        <use_mid_server/>
+        <use_mutual_auth>false</use_mutual_auth>
+    </sys_rest_message_fn>
+</record_update>

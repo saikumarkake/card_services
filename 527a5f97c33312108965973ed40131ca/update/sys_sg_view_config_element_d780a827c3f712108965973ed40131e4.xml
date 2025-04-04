@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_06_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:55:14</sys_created_on>
+        <sys_id>d780a827c3f712108965973ed40131e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_06_element</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_d780a827c3f712108965973ed40131e4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 09:55:14</sys_updated_on>
+        <view_config display_value="catalog items list card">226028e3c3f712108965973ed4013137</view_config>
+        <view_template_slot display_value="text_06">0b4de435530c01106d79ddeeff7b12de</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>
