@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="DELETE">
+        <name>text_05_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:44:09</sys_created_on>
+        <sys_id>b80ed023c3f712108965973ed401319f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_05_element</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_b80ed023c3f712108965973ed401319f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 09:44:09</sys_updated_on>
+        <view_config display_value="incident chat list card">bcfdd8efc3b712108965973ed40131ed</view_config>
+        <view_template_slot display_value="text_05">0f4de435530c01106d79ddeeff7b12db</view_template_slot>
+    </sys_sg_view_config_element>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ticket services">527a5f97c33312108965973ed40131ca</application>
+        <file_path/>
+        <instance_id>b1a3515a3bfb4a94baf6048aa4e45a3c</instance_id>
+        <instance_name>dev285817</instance_name>
+        <name>sys_sg_view_config_element_b80ed023c3f712108965973ed401319f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element"><sys_sg_view_config_element action="INSERT_OR_UPDATE"><name>text_05_element</name><sys_class_name>sys_sg_view_config_element</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-24 09:44:09</sys_created_on><sys_id>b80ed023c3f712108965973ed401319f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>text_05_element</sys_name><sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package><sys_policy/><sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope><sys_update_name>sys_sg_view_config_element_b80ed023c3f712108965973ed401319f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-24 09:44:09</sys_updated_on><view_config display_value="incident chat list card">bcfdd8efc3b712108965973ed40131ed</view_config><view_template_slot display_value="text_05">0f4de435530c01106d79ddeeff7b12db</view_template_slot></sys_sg_view_config_element></record_update>]]></payload>
+        <payload_hash>-597507499</payload_hash>
+        <record_name>text_05_element</record_name>
+        <reverted_from/>
+        <source>9a7ad3dfc33312108965973ed4013144</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:44:09</sys_created_on>
+        <sys_id>bc0ed023c3f712108965973ed40131a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1953757b43c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 09:44:09</sys_updated_on>
+        <type>Card element</type>
+        <update_guid>b00ed023eef712108cccdca00023eca1</update_guid>
+        <update_guid_history>b00ed023eef712108cccdca00023eca1:-597507499</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-19 09:29:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element">sys_sg_view_config_element</sys_db_object>
+        <sys_id>1b7eaacdf5a24032b3fb4a1b99f39084</sys_id>
+        <sys_metadata>b80ed023c3f712108965973ed401319f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_05_element</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_scope_delete display_value="">cb7e0868ad1c4d53b148f7647ed00879</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_b80ed023c3f712108965973ed401319f</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_b80ed023c3f712108965973ed401319f">bc0ed023c3f712108965973ed40131a1</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-19 09:29:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

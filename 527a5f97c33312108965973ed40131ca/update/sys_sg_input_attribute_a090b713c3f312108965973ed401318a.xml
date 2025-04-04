@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input_attribute">
+    <sys_sg_input_attribute action="INSERT_OR_UPDATE">
+        <input display_value="Category">20907fdfc3b312108965973ed4013156</input>
+        <name>Field</name>
+        <sys_class_name>sys_sg_input_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 06:25:37</sys_created_on>
+        <sys_id>a090b713c3f312108965973ed401318a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Field</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_input_attribute_a090b713c3f312108965973ed401318a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 06:25:37</sys_updated_on>
+        <value>category</value>
+    </sys_sg_input_attribute>
+</record_update>

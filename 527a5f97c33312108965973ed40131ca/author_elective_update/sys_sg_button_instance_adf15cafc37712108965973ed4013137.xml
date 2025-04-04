@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="DELETE">
+        <active>true</active>
+        <button display_value="User Details Tic">a9f15cafc37712108965973ed4013134</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="User Icon">066f7ac687103300a785940307cb0b3d</icon>
+        <label>User Details</label>
+        <location>quick_action</location>
+        <name>Employee Profile</name>
+        <order/>
+        <parent>de0c1b13c37312108965973ed401317b</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 08:51:30</sys_created_on>
+        <sys_id>adf15cafc37712108965973ed4013137</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Profile</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_button_instance_adf15cafc37712108965973ed4013137</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 08:51:30</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="DELETE" query="documentkey=adf15cafc37712108965973ed4013137"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ticket services">527a5f97c33312108965973ed40131ca</application>
+        <file_path/>
+        <instance_id>b1a3515a3bfb4a94baf6048aa4e45a3c</instance_id>
+        <instance_name>dev285817</instance_name>
+        <name>sys_sg_button_instance_adf15cafc37712108965973ed4013137</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance"><sys_sg_button_instance action="INSERT_OR_UPDATE"><active>true</active><button display_value="User Details Tic">a9f15cafc37712108965973ed4013134</button><color_theme/><description/><disable_offline>false</disable_offline><field_name/><icon display_value="User Icon">066f7ac687103300a785940307cb0b3d</icon><label>User Details</label><location>quick_action</location><name>Employee Profile</name><order/><parent>de0c1b13c37312108965973ed401317b</parent><parent_table>sys_sg_applet_launcher</parent_table><sys_class_name>sys_sg_button_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-24 08:51:30</sys_created_on><sys_id>adf15cafc37712108965973ed4013137</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Employee Profile</sys_name><sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package><sys_policy/><sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope><sys_update_name>sys_sg_button_instance_adf15cafc37712108965973ed4013137</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-24 08:51:30</sys_updated_on><table/></sys_sg_button_instance><sys_translated_text action="delete_multiple" query="documentkey=adf15cafc37712108965973ed4013137"/></record_update>]]></payload>
+        <payload_hash>-99996702</payload_hash>
+        <record_name>Employee Profile</record_name>
+        <reverted_from/>
+        <source>9a7ad3dfc33312108965973ed4013144</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 08:51:30</sys_created_on>
+        <sys_id>65f15cafc37712108965973ed401313a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195372781700000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 08:51:30</sys_updated_on>
+        <type>Function instance</type>
+        <update_guid>69f15caf627712103ebd16aa2d456239</update_guid>
+        <update_guid_history>69f15caf627712103ebd16aa2d456239:-99996702</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 08:52:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_button_instance">sys_sg_button_instance</sys_db_object>
+        <sys_id>178b9fe18f7a40ad866b32e293c0ab89</sys_id>
+        <sys_metadata>adf15cafc37712108965973ed4013137</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Employee Profile</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_scope_delete display_value="">cb7e0868ad1c4d53b148f7647ed00879</sys_scope_delete>
+        <sys_update_name>sys_sg_button_instance_adf15cafc37712108965973ed4013137</sys_update_name>
+        <sys_update_version display_value="sys_sg_button_instance_adf15cafc37712108965973ed4013137">65f15cafc37712108965973ed401313a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 08:52:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

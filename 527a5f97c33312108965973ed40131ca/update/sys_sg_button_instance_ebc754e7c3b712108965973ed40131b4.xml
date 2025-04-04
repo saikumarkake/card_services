@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="Jump to User Profile">875b724687103300a785940307cb0b4b</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon/>
+        <label>User Details</label>
+        <location>quick_action</location>
+        <name>user details</name>
+        <order>90</order>
+        <parent>de0c1b13c37312108965973ed401317b</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:17:02</sys_created_on>
+        <sys_id>ebc754e7c3b712108965973ed40131b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user details</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ebc754e7c3b712108965973ed40131b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 09:17:02</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ebc754e7c3b712108965973ed40131b4"/>
+</record_update>

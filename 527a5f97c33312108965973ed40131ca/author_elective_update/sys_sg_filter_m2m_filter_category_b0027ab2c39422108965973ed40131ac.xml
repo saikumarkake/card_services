@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_filter_m2m_filter_category">
+    <sys_sg_filter_m2m_filter_category action="DELETE">
+        <filter display_value="Date filter">09d0b2fec35422108965973ed40131fd</filter>
+        <filter_category display_value="date 2">7802f232c39422108965973ed4013192</filter_category>
+        <order>200</order>
+        <sys_class_name>sys_sg_filter_m2m_filter_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-19 09:06:43</sys_created_on>
+        <sys_id>b0027ab2c39422108965973ed40131ac</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_filter_m2m_filter_category_b0027ab2c39422108965973ed40131ac</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-19 09:06:56</sys_updated_on>
+    </sys_sg_filter_m2m_filter_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ticket services">527a5f97c33312108965973ed40131ca</application>
+        <file_path/>
+        <instance_id>b1a3515a3bfb4a94baf6048aa4e45a3c</instance_id>
+        <instance_name>dev285817</instance_name>
+        <name>sys_sg_filter_m2m_filter_category_b0027ab2c39422108965973ed40131ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_filter_m2m_filter_category"><sys_sg_filter_m2m_filter_category action="INSERT_OR_UPDATE"><filter display_value="Date filter">09d0b2fec35422108965973ed40131fd</filter><filter_category display_value="date 2">7802f232c39422108965973ed4013192</filter_category><order>200</order><sys_class_name>sys_sg_filter_m2m_filter_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-03-19 09:06:43</sys_created_on><sys_id>b0027ab2c39422108965973ed40131ac</sys_id><sys_mod_count>1</sys_mod_count><sys_name/><sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package><sys_policy/><sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope><sys_update_name>sys_sg_filter_m2m_filter_category_b0027ab2c39422108965973ed40131ac</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-03-19 09:06:56</sys_updated_on></sys_sg_filter_m2m_filter_category></record_update>]]></payload>
+        <payload_hash>-1024316035</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>9a7ad3dfc33312108965973ed4013144</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-19 09:06:56</sys_created_on>
+        <sys_id>4012bab2c39422108965973ed4013177</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195ada7e64e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-19 09:06:56</sys_updated_on>
+        <type>Filter M2M Filter Category</type>
+        <update_guid>0812bab267942210922e94e91e4a0c76</update_guid>
+        <update_guid_history>0812bab267942210922e94e91e4a0c76:-1024316035,b4027ab2d4942210ad964fd2fa4841ad:-217218011</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-19 09:08:35</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_filter_m2m_filter_category">sys_sg_filter_m2m_filter_category</sys_db_object>
+        <sys_id>06fb87aa27e14bf194fc39f4671b8581</sys_id>
+        <sys_metadata>b0027ab2c39422108965973ed40131ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_scope_delete display_value="">cb7e0868ad1c4d53b148f7647ed00879</sys_scope_delete>
+        <sys_update_name>sys_sg_filter_m2m_filter_category_b0027ab2c39422108965973ed40131ac</sys_update_name>
+        <sys_update_version display_value="sys_sg_filter_m2m_filter_category_b0027ab2c39422108965973ed40131ac">4012bab2c39422108965973ed4013177</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-19 09:08:35</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

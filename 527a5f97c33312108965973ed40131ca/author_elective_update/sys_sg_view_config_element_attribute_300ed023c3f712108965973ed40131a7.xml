@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute">
+    <sys_sg_view_config_element_attribute action="DELETE">
+        <description>text_06_FieldValue</description>
+        <name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name>
+        <sys_class_name>sys_sg_view_config_element_attribute</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:44:09</sys_created_on>
+        <sys_id>300ed023c3f712108965973ed40131a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_attribute_300ed023c3f712108965973ed40131a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 09:44:09</sys_updated_on>
+        <translated_value/>
+        <value>short_description</value>
+        <view_config_element display_value="text_06_element">3c0ed023c3f712108965973ed40131a4</view_config_element>
+    </sys_sg_view_config_element_attribute>
+    <sys_translated_text action="DELETE" query="documentkey=300ed023c3f712108965973ed40131a7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ticket services">527a5f97c33312108965973ed40131ca</application>
+        <file_path/>
+        <instance_id>b1a3515a3bfb4a94baf6048aa4e45a3c</instance_id>
+        <instance_name>dev285817</instance_name>
+        <name>sys_sg_view_config_element_attribute_300ed023c3f712108965973ed40131a7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element_attribute"><sys_sg_view_config_element_attribute action="INSERT_OR_UPDATE"><description>text_06_FieldValue</description><name display_value="FieldValue">c2eed5c2b7321010df65f6efce11a9cf</name><sys_class_name>sys_sg_view_config_element_attribute</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2025-02-24 09:44:09</sys_created_on><sys_id>300ed023c3f712108965973ed40131a7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name><sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package><sys_policy/><sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope><sys_update_name>sys_sg_view_config_element_attribute_300ed023c3f712108965973ed40131a7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2025-02-24 09:44:09</sys_updated_on><translated_value/><value>short_description</value><view_config_element display_value="text_06_element">3c0ed023c3f712108965973ed40131a4</view_config_element></sys_sg_view_config_element_attribute><sys_translated_text action="delete_multiple" query="documentkey=300ed023c3f712108965973ed40131a7"/></record_update>]]></payload>
+        <payload_hash>728623537</payload_hash>
+        <record_name>c2eed5c2b7321010df65f6efce11a9cf</record_name>
+        <reverted_from/>
+        <source>9a7ad3dfc33312108965973ed4013144</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:44:09</sys_created_on>
+        <sys_id>f00ed023c3f712108965973ed40131a9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1953757b4af0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 09:44:09</sys_updated_on>
+        <type>Card element attribute</type>
+        <update_guid>f40ed023cbf71210d388c527d2008ca8</update_guid>
+        <update_guid_history>f40ed023cbf71210d388c527d2008ca8:728623537</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-03-19 09:29:45</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_view_config_element_attribute">sys_sg_view_config_element_attribute</sys_db_object>
+        <sys_id>afa42225dd7e46c88b2c7a721f2135b9</sys_id>
+        <sys_metadata>300ed023c3f712108965973ed40131a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c2eed5c2b7321010df65f6efce11a9cf</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_scope_delete display_value="">cb7e0868ad1c4d53b148f7647ed00879</sys_scope_delete>
+        <sys_update_name>sys_sg_view_config_element_attribute_300ed023c3f712108965973ed40131a7</sys_update_name>
+        <sys_update_version display_value="sys_sg_view_config_element_attribute_300ed023c3f712108965973ed40131a7">f00ed023c3f712108965973ed40131a9</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-03-19 09:29:45</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_navigation_section_destination_screen">
+    <sys_sg_navigation_section_destination_screen action="INSERT_OR_UPDATE">
+        <applet display_value="categories list">999f50e3c3f712108965973ed40131c5</applet>
+        <background_color/>
+        <background_color_variable/>
+        <foreground_color/>
+        <foreground_color_variable/>
+        <icon display_value="MS icon-Wrench-Solid">389fb50673b52010a59b4c5353f6a782</icon>
+        <image/>
+        <name>categories</name>
+        <sys_class_name>sys_sg_navigation_section_destination_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:51:35</sys_created_on>
+        <sys_id>fdbf14e3c3f712108965973ed40131e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>categories</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_navigation_section_destination_screen_fdbf14e3c3f712108965973ed40131e5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 09:51:35</sys_updated_on>
+    </sys_sg_navigation_section_destination_screen>
+</record_update>

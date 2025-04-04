@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_button_instance">
+    <sys_sg_button_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <button display_value="notifications">da0037d8c34422108965973ed40131d3</button>
+        <color_theme/>
+        <description/>
+        <disable_offline>false</disable_offline>
+        <field_name/>
+        <icon display_value="MS icon-Alert">4b0861d053337410409cddeeff7b1221</icon>
+        <label>Notifications</label>
+        <location>header</location>
+        <name>notifications</name>
+        <order>100</order>
+        <parent>2a185f1cc38022108965973ed40131dd</parent>
+        <parent_table>sys_sg_applet_launcher</parent_table>
+        <sys_class_name>sys_sg_button_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 08:57:13</sys_created_on>
+        <sys_id>ae0037d8c34422108965973ed40131da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>notifications</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_button_instance_ae0037d8c34422108965973ed40131da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 08:57:13</sys_updated_on>
+        <table/>
+    </sys_sg_button_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=ae0037d8c34422108965973ed40131da"/>
+</record_update>

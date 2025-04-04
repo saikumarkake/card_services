@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_data_item">
+    <sys_sg_data_item action="INSERT_OR_UPDATE">
+        <condition_type>declarative</condition_type>
+        <description/>
+        <group_by/>
+        <instance_relative_url_qc/>
+        <name>Catalog items data item</name>
+        <offline_query_condition/>
+        <offline_query_condition_script/>
+        <query_condition table="sc_cat_item">category={{category}}^EQ<item endquery="false" field="category" goto="false" newquery="false" operator="=" or="false" value="{{category}}"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </query_condition>
+        <query_condition_script/>
+        <sys_class_name>sys_sg_data_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 09:54:24</sys_created_on>
+        <sys_id>3e50a027c3f712108965973ed40131eb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Catalog items data item</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_data_item_3e50a027c3f712108965973ed40131eb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 09:57:40</sys_updated_on>
+        <table>sc_cat_item</table>
+    </sys_sg_data_item>
+    <sys_translated_text action="delete_multiple" query="documentkey=3e50a027c3f712108965973ed40131eb"/>
+</record_update>

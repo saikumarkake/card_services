@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="DELETE">
+        <client_script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+if (isLoading || newValue == '') {
+return;
+}
+
+//Type appropriate comment here, and begin script below
+var impact = g_form.getValue('impact');
+var urgency = g_form.getValue('urgency');
+
+// Calculate the priority based on the Impact and Urgency values
+
+if (impact == '1' && urgency == 'a') {
+g_form.setValue('priority','critical');
+} else if ((impact == '1' && urgency == 'b') ||
+(impact == '2' && urgency == 'a')) {
+g_form.setValue('priority','high');
+} else if ((impact == '1' && urgency == 'c') ||
+(impact == '2' && urgency == 'b') ||
+(impact == '3' && urgency == 'a')) {
+g_form.setValue('priority','moderate');
+} else if ((impact == '2' && urgency == 'c') ||
+(impact == '3' && urgency == 'b')) {
+g_form.setValue('priority','low');
+} else if (impact == '3' && urgency == 'c') {
+g_form.setValue('priority','planning');
+}
+}
+]]></client_script>
+        <operation display_value="Run Client Script">e16fffc367233110db9fb9770cf9224b</operation>
+        <order>100</order>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 12:26:42</sys_created_on>
+        <sys_id>c3ffdc28c34822108965973ed401310f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_c3ffdc28c34822108965973ed401310f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 12:26:42</sys_updated_on>
+        <target/>
+        <ui_rule display_value="populate priority field">655a9864c34822108965973ed40131ac</ui_rule>
+        <value/>
+    </sys_sg_ui_rule_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Ticket services">527a5f97c33312108965973ed40131ca</application>
+        <file_path/>
+        <instance_id>b1a3515a3bfb4a94baf6048aa4e45a3c</instance_id>
+        <instance_name>dev285817</instance_name>
+        <name>sys_sg_ui_rule_action_c3ffdc28c34822108965973ed401310f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_sg_ui_rule_action"&gt;&lt;sys_sg_ui_rule_action action="INSERT_OR_UPDATE"&gt;&lt;client_script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading) {
+if (isLoading || newValue == '') {
+return;
+}
+
+//Type appropriate comment here, and begin script below
+var impact = g_form.getValue('impact');
+var urgency = g_form.getValue('urgency');
+
+// Calculate the priority based on the Impact and Urgency values
+
+if (impact == '1' &amp;&amp; urgency == 'a') {
+g_form.setValue('priority','critical');
+} else if ((impact == '1' &amp;&amp; urgency == 'b') ||
+(impact == '2' &amp;&amp; urgency == 'a')) {
+g_form.setValue('priority','high');
+} else if ((impact == '1' &amp;&amp; urgency == 'c') ||
+(impact == '2' &amp;&amp; urgency == 'b') ||
+(impact == '3' &amp;&amp; urgency == 'a')) {
+g_form.setValue('priority','moderate');
+} else if ((impact == '2' &amp;&amp; urgency == 'c') ||
+(impact == '3' &amp;&amp; urgency == 'b')) {
+g_form.setValue('priority','low');
+} else if (impact == '3' &amp;&amp; urgency == 'c') {
+g_form.setValue('priority','planning');
+}
+}
+]]&gt;&lt;/client_script&gt;&lt;operation display_value="Run Client Script"&gt;e16fffc367233110db9fb9770cf9224b&lt;/operation&gt;&lt;order&gt;100&lt;/order&gt;&lt;sys_class_name&gt;sys_sg_ui_rule_action&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2025-02-27 12:26:42&lt;/sys_created_on&gt;&lt;sys_id&gt;c3ffdc28c34822108965973ed401310f&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="Ticket services" source="x_1470828_ticket_s"&gt;527a5f97c33312108965973ed40131ca&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Ticket services"&gt;527a5f97c33312108965973ed40131ca&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_sg_ui_rule_action_c3ffdc28c34822108965973ed401310f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2025-02-27 12:26:42&lt;/sys_updated_on&gt;&lt;target/&gt;&lt;ui_rule display_value="populate priority field"&gt;655a9864c34822108965973ed40131ac&lt;/ui_rule&gt;&lt;value/&gt;&lt;/sys_sg_ui_rule_action&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>569899632</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>9a7ad3dfc33312108965973ed4013144</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 12:26:42</sys_created_on>
+        <sys_id>47ffdc28c34822108965973ed4013112</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>195475f991d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 12:26:42</sys_updated_on>
+        <type>Mobile UI Rule Action</type>
+        <update_guid>4bffdc28a84822109a1a0ee7fad61011</update_guid>
+        <update_guid_history>4bffdc28a84822109a1a0ee7fad61011:569899632</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-27 12:28:09</sys_created_on>
+        <sys_db_object display_value="" name="sys_sg_ui_rule_action">sys_sg_ui_rule_action</sys_db_object>
+        <sys_id>3ed6aa2bab0c4f4799e2e3f17f5e3369</sys_id>
+        <sys_metadata>c3ffdc28c34822108965973ed401310f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_scope_delete display_value="">cb7e0868ad1c4d53b148f7647ed00879</sys_scope_delete>
+        <sys_update_name>sys_sg_ui_rule_action_c3ffdc28c34822108965973ed401310f</sys_update_name>
+        <sys_update_version display_value="sys_sg_ui_rule_action_c3ffdc28c34822108965973ed401310f">47ffdc28c34822108965973ed4013112</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-27 12:28:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

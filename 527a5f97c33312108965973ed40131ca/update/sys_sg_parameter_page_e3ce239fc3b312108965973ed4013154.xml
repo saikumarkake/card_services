@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_parameter_page">
+    <sys_sg_parameter_page action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <name>P1</name>
+        <order>100</order>
+        <parameter_screen display_value="Create Work Order">1fce231fc3b312108965973ed40131b3</parameter_screen>
+        <sys_class_name>sys_sg_parameter_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-02-24 06:17:54</sys_created_on>
+        <sys_id>e3ce239fc3b312108965973ed4013154</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>P1</sys_name>
+        <sys_package display_value="Ticket services" source="x_1470828_ticket_s">527a5f97c33312108965973ed40131ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ticket services">527a5f97c33312108965973ed40131ca</sys_scope>
+        <sys_update_name>sys_sg_parameter_page_e3ce239fc3b312108965973ed4013154</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-02-24 06:17:54</sys_updated_on>
+    </sys_sg_parameter_page>
+</record_update>
